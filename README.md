@@ -1,3 +1,7 @@
-Meu nome é **Isabela**, tenho 15 anos.
-Sou estudante da escola EE 9 de Julho e estou no primeiro ano do ensino médio.
-Na aula de tecnologia e robótica estou utilizando a plataforma alura, fornecida pelo CMSP.
+**Isabela Vitareli** 
+
+_tecnologia e robótica_
+
+🩹
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlicGZicHpiNTI5anMxc3RveHYyMm9wemIyODljaGlteW01ZnQ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiVvi66FqT2bpym6R8/giphy.webp]
